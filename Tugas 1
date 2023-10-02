@@ -1,0 +1,8 @@
+Azmi punya gelas ukuran 8 liter berisi air penuh.dan gelas kosong ukuran 5 liter dan 3 liter kemudian anggun ingin meminta hanya 4 liter saja.buatlah algoritma supaya anggun mendafatkan air tepat seperti yang dia inginkan?
+Ukuran 4 liter
+1. isi penuh gelas 8 liter
+2.isi penuh gelas 5 liter menggunakan air     dari gelas berukuran8 liter sehingga tertinggal air sebanyak 3 liter dalam gelas 8 liter tersebut
+3. Tambahkan air kedalam3 liter ukuran gelas yg kosong
+4.buang air ukuran gelas 3 liter.
+5.pindahkan 2 liter air yang ada di gelas ukuran 5 liter
+6.tuangkan air dari gelas ukuran 5 liter ke gelas ukuran 3 liter hingga penuh,sehingga yang tersisa digelas ukuran 5 liter adalah 4liter ai
